@@ -1,7 +1,7 @@
 ({
     name: "IR Remote", // Category Name
     description: "Get data from Sony Remote",
-    author: "microBlock",
+    author: "TekTech",
     category: "Communication",
     version: "1.0.0",
     icon: "/static/icon.png", // Category icon
